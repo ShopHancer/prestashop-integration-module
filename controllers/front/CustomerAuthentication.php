@@ -2,9 +2,6 @@
 
 //declare(strict_types=1);
 
-//class ModuleFrontController extends ModuleFrontControllerCore {}
-//ShopHancerIntegrationCrudApiExtensionModuleFrontController
-
 include __DIR__ . '/../BaseFrontController.php';
 include __DIR__ . '/../Response.php';
 include __DIR__ . '/../Request.php';
