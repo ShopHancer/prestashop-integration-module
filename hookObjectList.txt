@@ -1,4 +1,11 @@
 Address
+Attribute
+AttributeGroup
+AttributeGroupLang
+AttributeGroupShop
+AttributeImpact
+AttributeLang
+AttributeShop
 Cms
 CmsBlock
 Currency
